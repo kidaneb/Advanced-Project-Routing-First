@@ -62,7 +62,7 @@ async function action({ request }) {
   //   return {body:"Body is Required"};
   // }
 
-  //Alternative way
+  //Alternative way to the mutation using fetch
   // const post = await fetch("http://127.0.0.1:3000/posts",{
   //   method:"POST",
   //   signal:request.signal,
