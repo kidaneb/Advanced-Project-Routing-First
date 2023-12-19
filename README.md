@@ -4,6 +4,7 @@ This project showcases advanced functionalities in React routing, including:
   * Filtering data by query from the URL: Utilize search parameters to dynamically refine displayed data according to user-defined criteria.
   * Mutation of data: Handle new post creation and existing data editing through intuitive forms and API interactions.
   * Leveraging action and loader features: Implement React Router's action and loader features for streamlined data fetching and navigation.
+    
 
 Key Features:
   * Filterable Data: Users can dynamically filter data based on parameters added to the URL, providing a flexible and intuitive search experience.
